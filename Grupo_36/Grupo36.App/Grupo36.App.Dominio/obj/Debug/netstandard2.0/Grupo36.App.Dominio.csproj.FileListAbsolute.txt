@@ -1,0 +1,10 @@
+C:\Grupo_36\Grupo36.App\Grupo36.App.Dominio\bin\Debug\netstandard2.0\Grupo36.App.Dominio.deps.json
+C:\Grupo_36\Grupo36.App\Grupo36.App.Dominio\bin\Debug\netstandard2.0\Grupo36.App.Dominio.dll
+C:\Grupo_36\Grupo36.App\Grupo36.App.Dominio\bin\Debug\netstandard2.0\Grupo36.App.Dominio.pdb
+C:\Grupo_36\Grupo36.App\Grupo36.App.Dominio\obj\Debug\netstandard2.0\Grupo36.App.Dominio.AssemblyInfoInputs.cache
+C:\Grupo_36\Grupo36.App\Grupo36.App.Dominio\obj\Debug\netstandard2.0\Grupo36.App.Dominio.AssemblyInfo.cs
+C:\Grupo_36\Grupo36.App\Grupo36.App.Dominio\obj\Debug\netstandard2.0\Grupo36.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Grupo_36\Grupo36.App\Grupo36.App.Dominio\obj\Debug\netstandard2.0\Grupo36.App.Dominio.dll
+C:\Grupo_36\Grupo36.App\Grupo36.App.Dominio\obj\Debug\netstandard2.0\Grupo36.App.Dominio.pdb
+C:\Grupo_36\Grupo36.App\Grupo36.App.Dominio\obj\Debug\netstandard2.0\Grupo36.App.Dominio.csproj.AssemblyReference.cache
+C:\Grupo_36\Grupo36.App\Grupo36.App.Dominio\obj\Debug\netstandard2.0\Grupo36.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
